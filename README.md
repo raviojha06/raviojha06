@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravi Ojha
-- :electron: I am Founder of Telegaon.
+- :electron:  I am Founder of Telegaon.
 - 👀 I’m interested in Wordpress CMS and SEO.
 - 🌱 I’m currently learning HTML/CSS and Javascript.
 - 💞️ I’m looking to collaborate on SEO Projects.
