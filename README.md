@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ravi Ojha
-- :electron:  I am Founder of Telegaon.
-- 👀 I’m interested in Wordpress CMS and SEO.
+- :electron:  I am the Founder of Telegaon.
+- 👀 I’m interested in WordPress CMS and SEO.
 - 🌱 I’m currently learning HTML/CSS and Javascript.
 - 💞️ I’m looking to collaborate on SEO Projects.
-- 📫 Reach out to me by clicking here <a href="https://ravoza.com/contact/">Contact Ravi</a>.
+- 📫 Reach out to me by clicking here <a href="https://telegaon.com/contact/">Contact Ravi</a>.
 
 <!---
 raviojha06/raviojha06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
