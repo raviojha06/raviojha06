@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravi Ojha
 - :electron:  I am the Founder of Telegaon.
 - 👀 I’m interested in WordPress CMS and SEO.
-- 🌱 I’m currently learning Python and Javascript.
+- 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on SEO Projects.
 - 📫 Reach out to me by clicking here <a href="https://telegaon.com/contact/">Contact Ravi</a>.
 
