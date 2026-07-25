@@ -78,16 +78,3 @@
 > **"Build for users. Structure for machines. Measure everything. Automate relentlessly."**
 
 ---
-
-## ✨ Optional GitHub Widgets
-
-After creating this profile repository, you can further enhance it by adding:
-
-- 🔥 GitHub Readme Stats
-- 📈 Contribution Streak
-- 🏆 GitHub Trophies
-- ⌨️ Animated Typing Banner
-- 👀 Visitor Counter
-- ☕ Buy Me a Coffee (optional)
-
-These are free services you can add later if desired.
