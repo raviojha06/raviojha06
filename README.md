@@ -47,34 +47,37 @@ Building scalable organic growth systems for Google, ChatGPT, Gemini, Claude, Pe
 
 ### SEO
 
-![GSC](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF8800?style=for-the-badge)
-![Screaming Frog](https://img.shields.io/badge/Screaming%20Frog-4CAF50?style=for-the-badge)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Screaming Frog](https://img.shields.io/badge/Screaming%20Frog-6CB33F?style=for-the-badge)
 
 ### Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+![Adobe%20Experience%20Manager](https://img.shields.io/badge/Adobe%20Experience%20Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-> Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raviojha06&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviojha06&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=raviojha06&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
