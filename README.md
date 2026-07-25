@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Ravi Ojha
 
-### 🚀 SEO Engineer • AI Search (AEO/GEO) • Technical SEO • Growth Systems
+### 🚀 SEO Engineer • AI Search (AEO/GEO) • Digital Analytics • Marketing Automation
 
 <p>
 Building scalable organic growth systems for Google, ChatGPT, Gemini, Claude, Perplexity and the next generation of AI search.
