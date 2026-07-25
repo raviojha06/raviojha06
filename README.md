@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/2d9ddb30-1e5c-427d-bfa2-4b5fefd82b4c" />
+
+
 # 👋 Hi, I'm Ravi Ojha
 
 ### 🚀 SEO Engineer • AI Search (AEO/GEO) • Technical SEO • Growth Systems
