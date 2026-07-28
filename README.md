@@ -16,34 +16,44 @@ Delhi, India · [raviojha.me](https://raviojha.me) · [LinkedIn](https://linkedi
 
 ### 👋 About Me
 
-I build organic growth systems that work across **both** traditional search and AI-driven discovery — Google, ChatGPT, Gemini, Claude, Perplexity, DeepSeek, and Qwen. Over 10 years in SEO, the last 4+ focused specifically on AI Search (AEO/GEO), I combine technical SEO, content architecture, and automation/agentic AI to make brands *citable*, not just rankable.
+I've always been fascinated by one question: *how do people discover things online?* That curiosity started in university, building websites and experimenting with SEO — and it's been my career ever since. 10+ years in, I now specialize in **SEO, AEO, GEO, ASO, web analytics, and AI Search strategy**, helping businesses turn organic visibility into measurable growth.
 
-- 📈 Scaled a fintech/crypto platform to **20,000+ AI citations** and **75–80% growth in AI-referred traffic**
-- 🏢 Currently **Head of Digital Growth at Telegaon** (fintech & crypto education) and founder of **HawksWave Technology**, a custom software development agency in New Delhi
-- 🧰 Ship my own tooling — from SEO automation scripts to full site rebuilds — rather than relying solely on off-the-shelf platforms
-- 🌐 Freelance experience spans F&B (Americana Food Co. brands — KFC, Pizza Hut, Krispy Kreme, Hardee's across UAE/KSA/Qatar), healthcare, and mobility
+- 📈 Drove **250% organic traffic growth in six months** and grew a fintech platform from **0 to 250,000+ monthly users**, with backlinks and mentions from NASDAQ, Business Insider, and Investor's Place
+- 🏢 Currently **Head of SEO & AEO/GEO at Telegaon**, owning search and AI-search strategy across a multi-site finance & crypto publishing platform
+- 🤖 Optimize AI visibility across ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews — not just traditional SERPs
+- 🌍 Worked across SaaS, e-commerce, healthcare, MedTech, EdTech, F&B, cryptocurrency, and mobility — including global brands like KFC, Pizza Hut, Krispy Kreme, and Hardee's
+- 🧰 Enjoy the technical side too — building with WordPress/Shopify, custom tooling, and AI-powered workflows — and I'm an indie hacker at heart, always shipping side projects to see how far an idea can go
 
 ---
 
 ### 💼 Experience Snapshot
 
-| Role | Focus |
-|---|---|
-| **Head of Digital Growth** — Telegaon | AI-first SEO/AEO/GEO strategy, crypto content & tools, technical SEO audits |
-| **Founder** — HawksWave Technology | Custom software & web development, SEO engineering for clients |
-| **Freelance Growth Consultant** | SEO/ASO/analytics for F&B, healthcare & mobility brands (KFC, Pizza Hut, Krispy Kreme, Hardee's, Vrozart Health, Tora Cabs, C-TEL, UC News) |
+| Role | Company | Period | Highlights |
+|---|---|---|---|
+| Head of SEO & AEO/GEO | Telegaon (Dubai, UAE) | Aug 2022 – Present | 250% organic growth in 6 months; built a 550+ article knowledge hub; GEO across ChatGPT, Gemini, Claude, Perplexity, AI Overviews |
+| SEO Consultant | Dicetek LLC (Dubai, UAE) | Jun 2021 – Jul 2022 | +70% search visibility; +35% organic app installs across 15+ apps |
+| Digital Marketing Manager | C-TEL (Hyderabad, India) | Jun 2020 – Jun 2021 | End-to-end Google/Meta Ads; +40% app installs via SEO+PPC+ASO |
+| Head of SEO and Analytics | Vrozart Health (Gurugram, India) | Dec 2019 – May 2020 | 650+ qualified leads/month across Africa, Central Asia & Eastern Europe |
+| SEO Specialist | UC Browser – News Section (Gurugram, India) | Oct 2018 – Nov 2019 | On-page/technical/content SEO across key international markets |
+| SEO Content Writer | Revolt Press (New Delhi, India) | Jun 2015 – Sep 2018 | 1,000+ SEO-optimized articles and blogs |
 
 ---
 
 ### 🏆 Featured Work
 
-**Telegaon** — Built an AI-first SEO strategy from the ground up: rebuilt and optimized crypto tools (live ETF tracker, Solana Whale Tracker, Fear & Greed Index, live price tracker) and content pages, improving visibility across every major AI assistant and scaling to 20,000+ citations with 75–80% AI traffic growth.
+**Telegaon (Fintech)** — Built the website and trading tools on WordPress/HTML/CSS/JS, published 550+ finance, stocks, and crypto articles, and grew traffic from 0 to 250,000+ monthly users across North America and Europe. Earned backlinks from NASDAQ, Business Insider, and Investor's Place, and partnered with CoinMarketCap, BitMart, BYDFi, CoinCodex, CoinStats, and AMBCrypto.
 
-**HawksWave Technology** — Designed and built the agency's full site and brand presence: component-driven architecture, structured data, and AEO/GEO-ready content to make the agency itself discoverable by AI search.
+**KFC UAE / Pizza Hut UAE (Americana Food Co.)** — Led website SEO and full iOS/Android App Store Optimization, improving app discoverability and user acquisition.
 
-**Aarogya Clinic** — Multi-page clinic website with OPD token booking and interactive health calculators, built for real patient-facing use.
+**Krispy Kreme KSA / Hardee's Qatar (Americana Food Co.)** — Built ASO strategies from scratch, driving mobile app installs through hyper-local keyword optimization in competitive Gulf markets.
 
-**raviojha.me** — Personal site rebuilt around a "Citation Index" concept — proof-of-work for GEO consulting, with a no-CMS essay publishing workflow.
+**Vrozart Health (Medical Tourism)** — Led digital marketing and martech implementation alongside developers, generating 650+ qualified leads/month across Africa, Central Asia, and the Middle East.
+
+**Tora Cabs (Mobility)** — Directed digital marketing and local SEO to scale organic traffic and mobile app installs.
+
+**C-TEL (SaaS/E-commerce)** — Led digital marketing and market research for government, EdTech, and e-commerce opportunities; authored pitch decks and technical documents.
+
+**UC News (UC Browser)** — Researched and published 250+ viral, SEO-optimized articles on tech and crypto, repeatedly ranking at the top of browser feeds.
 
 ---
 
