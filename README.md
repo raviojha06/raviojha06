@@ -32,7 +32,7 @@ I've always been fascinated by one question: *how do people discover things onli
 |---|---|---|---|
 | Head of SEO & AEO/GEO | Telegaon (Dubai, UAE) | Aug 2022 – Present | 250% organic growth in 6 months; built a 550+ article knowledge hub; GEO across ChatGPT, Gemini, Claude, Perplexity, AI Overviews |
 | SEO Consultant | Dicetek LLC (Dubai, UAE) | Jun 2021 – Jul 2022 | +70% search visibility; +35% organic app installs across 15+ apps |
-| Digital Marketing Manager | C-TEL (Hyderabad, India) | Jun 2020 – Jun 2021 | End-to-end Google/Meta Ads; +40% app installs via SEO+PPC+ASO |
+| Digital Marketing Manager | C-TEL (Hyderabad, India) | Jun 2020 – Jun 2021 | End-to-end SEO Strategy and Google/Meta Ads; +40% app installs via SEO+PPC+ASO |
 | Head of SEO and Analytics | Vrozart Health (Gurugram, India) | Dec 2019 – May 2020 | 650+ qualified leads/month across Africa, Central Asia & Eastern Europe |
 | SEO Specialist | UC Browser – News Section (Gurugram, India) | Oct 2018 – Nov 2019 | On-page/technical/content SEO across key international markets |
 | SEO Content Writer | Revolt Press (New Delhi, India) | Jun 2015 – Sep 2018 | 1,000+ SEO-optimized articles and blogs |
